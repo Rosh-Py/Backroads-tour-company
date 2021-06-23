@@ -1,1 +1,7 @@
-Used html/css/javascript
+##Static website
+
+```
+Using HTML and CSS
+
+(Flexbox for layouts)
+```
