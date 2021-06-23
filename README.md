@@ -1,4 +1,4 @@
-##Static website
+## Static website
 
 ```
 Using HTML and CSS
